@@ -46,7 +46,8 @@ Without segmentation, marketing is a guessing game. With it, we can:
 - Applied KMeans clustering (k=5) using a full pipeline
 - Visualized insights via radar charts and KPI comparisons
 
-![Radar Chart](images/radar_chart.png)
+<img width="972" alt="radar_chart" src="https://github.com/user-attachments/assets/5230c6d9-fc72-4db8-93c1-82331b138997" />
+
 
 
 ## Meet the Personas (Visual Cards)
